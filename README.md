@@ -1,6 +1,6 @@
 # Enhancing 3D Instance Segmentation with Dense Connection Decoder and Layer Aware Fusion (RAL2025)
 
-Duanchu Wang, Gonghao Ran, and Di Wang
+Duanchu Wang, Haoran Gong, and Di Wang
 
 ![Overview](docs/overview.png)
 
